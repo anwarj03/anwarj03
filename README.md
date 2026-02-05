@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Anwar! <br/><a href="https://www.linkedin.com/in/anwar-jadbi3/">Cybersecurity Professional</a>
+
+<h2>🛡️🔐 Cybersecurity Projects:</h2>
+
+
+<h2>🌐 Network Projects:</h2>
+
+
+<h2>📜🎓 Certifications:</h2>
+
+ 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/anwar.jadbi.03/
+[linkedin]: https://www.linkedin.com/in/anwar-jadbi3/
 
 <!--
-**anwarj03/anwarj03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
