@@ -2,7 +2,8 @@
 
 <h2>🛡️🔐 Cybersecurity Projects:</h2>
 
-
+- <b>File type identification tool </b>
+  - [The project using Python](https://github.com/anwarj03/file-type-identification-tool-)
 <h2>🌐 Network Projects:</h2>
 
 
