@@ -6,6 +6,8 @@
   - [The project using Python](https://github.com/anwarj03/file-type-identification-tool-)
 <h2>🌐 Network Projects:</h2>
 
+- <b>Deployment of a Firewall Solution for Advanced Network Security </b>
+  - [Advanced Network Security Architecture with Palo Alto & FortiGate 🔐🚀](https://github.com/anwarj03/Advanced-Network-Security-Architecture-with-Palo-Alto-FortiGate-)
 
 <h2>📜🎓 Certifications:</h2>
 
