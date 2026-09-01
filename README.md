@@ -8,7 +8,7 @@ I design and test secure systems at the point where **AI applications, enterpris
 
 <a href="https://github.com/anwarj03?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"></a>
 <a href="https://www.linkedin.com/in/anwar-jadbi3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:anwarjadbi318@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:anwarjadbi1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
@@ -119,6 +119,6 @@ I enjoy practical security engineering, responsible research, and projects that 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anwar-jadbi3/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="mailto:anwarjadbi318@gmail.com"><img src="https://img.shields.io/badge/Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"></a>
+<a href="mailto:anwarjadbi1@gmail.com"><img src="https://img.shields.io/badge/Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"></a>
 
 </div>
