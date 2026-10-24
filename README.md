@@ -56,7 +56,7 @@ Evidence-led security testing for modern AI applications. LLMRed combines a Pyth
 | Project | What it demonstrates |
 | --- | --- |
 | [Advanced Network Security Architecture](https://github.com/anwarj03/Advanced-Network-Security-Architecture-with-Palo-Alto-FortiGate-) | Segmented enterprise design using Palo Alto, FortiGate, Cisco routing and switching, SD-WAN, and IPsec. |
-| [Compromising Active Directory](https://github.com/anwarj03/Compromising-Active-Directory) | TryHackMe walkthrough and screenshot collection covering initial access, Active Directory authentication, NTLM/LDAP, Responder, PXE/MDT, and credential discovery. |
+| [Compromising Active Directory](https://github.com/anwarj03/Compromising-Active-Directory) | TryHackMe walkthrough . |
 | [File Type Identification Tool](https://github.com/anwarj03/file-type-identification-tool-) | Python file-header analysis using magic numbers to detect executables disguised with misleading extensions. |
 | SIEM and Zero Trust labs | Graylog and Wazuh monitoring, Apache log analysis, incident simulation, VPN-based access control, MFA, and intrusion detection experiments. |
 
