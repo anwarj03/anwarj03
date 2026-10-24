@@ -108,7 +108,7 @@ Configured segmented network infrastructure, firewall controls, secure remote ac
 
 ## Education and certifications
 
-- **Engineering Cycle, Network and Telecommunication Systems** · ENSA Kenitra · 2024-present
+- **Engineering Cycle, Network & Information Systems Security** · ENSA Kenitra · 2022-present
 - TryHackMe Pre Security
 - TryHackMe AI Security
 - TryHackMe Security Engineer · in progress
